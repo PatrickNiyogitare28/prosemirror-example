@@ -1,0 +1,10 @@
+.App h1,
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App .prose {
+  max-width: 720px;
+  margin: 0 auto;
+}

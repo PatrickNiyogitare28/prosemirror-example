@@ -1,0 +1,1 @@
+export { KeyMapExtension } from "./extension";
